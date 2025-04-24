@@ -1,5 +1,5 @@
-### Name : SARGURU K
-### Reg no : 212222230134
+### Name : lokesh m
+### Reg no : 2122240401773
 # Experiment-11
 ## Pytest Installation
 # Aim:
